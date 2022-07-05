@@ -1,0 +1,7 @@
+C:\Users\Mohamed\source\repos\LibraryDotNet6\RA.Library\RA.Library.Web\obj\Release\net6.0\PubTmp\Out\RA.Library.Web.exe
+C:\Users\Mohamed\source\repos\LibraryDotNet6\RA.Library\RA.Library.Web\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mohamed\source\repos\LibraryDotNet6\RA.Library\RA.Library.Web\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Mohamed\source\repos\LibraryDotNet6\RA.Library\RA.Library.Web\obj\Release\net6.0\PubTmp\Out\RA.Library.Web.dll
+C:\Users\Mohamed\source\repos\LibraryDotNet6\RA.Library\RA.Library.Web\obj\Release\net6.0\PubTmp\Out\RA.Library.Web.deps.json
+C:\Users\Mohamed\source\repos\LibraryDotNet6\RA.Library\RA.Library.Web\obj\Release\net6.0\PubTmp\Out\RA.Library.Web.runtimeconfig.json
+C:\Users\Mohamed\source\repos\LibraryDotNet6\RA.Library\RA.Library.Web\obj\Release\net6.0\PubTmp\Out\RA.Library.Web.pdb
